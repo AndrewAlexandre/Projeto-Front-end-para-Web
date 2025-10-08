@@ -1,0 +1,11 @@
+<!DOCTYPE html> //Define como HTML5
+<html lang="pt-BR"> //Define qual linguagem será utilizada
+<head> // Cabeçalho da página
+    <meta charset="UTF-8"> //Códificação de caracteres especiais pt-BR para não quebrar o código
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> //Tela responsiva para se adequar aos tamanhos das telas e navegadores
+    <title>Cadastro de usuários</title> //Título da página
+</head>
+<body>
+    
+</body> // Corpo da página a onde tudo se torna visível
+</html>
